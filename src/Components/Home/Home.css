@@ -1,0 +1,17 @@
+.save-btn{
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 150px;
+    height: 40px;
+    background-color: #999999;
+    color: white;
+    border: white;
+}
+.home {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .modal-active .home {
+    opacity: 0.5; /* Adjust the opacity value as needed */
+  }
+  
